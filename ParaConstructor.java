@@ -9,7 +9,7 @@ public class ParaConstructor
     {
         int p;
         int q;
-        Scanner sc = new Scanner(System.in);
+        Scanner sc=new Scanner(System.in);
         System.out.println("Enter the value of P : ");
         p=sc.nextInt();
         System.out.println("Enter the value of Q : ");
