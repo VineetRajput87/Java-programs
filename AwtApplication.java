@@ -21,7 +21,5 @@ public class AwtApplication
         P.add(l3);
         TextField textf3 = new TextField();
         P.add(textf3);
-        
-
     }
 }
