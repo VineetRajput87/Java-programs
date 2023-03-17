@@ -16,6 +16,7 @@ class Boxarea
      {
         Boxarea obj = new Boxarea();
         Scanner sc = new Scanner(System.in);
+         
         System.out.println("Enter the values of l, b, and h : ");
         obj.l=sc.nextInt();
         obj.b=sc.nextInt();
