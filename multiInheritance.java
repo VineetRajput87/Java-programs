@@ -5,6 +5,7 @@ class A
         System.out.println("Class A");
     }
 }
+
 class B extends A
 {
     void f2()
