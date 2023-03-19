@@ -16,6 +16,7 @@ class Child extends Base
         Base r;
         Base ob = new Base();
         Child obj = new Child();
+        
         r=ob;
         r.show();
         r=obj;
