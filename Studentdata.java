@@ -8,6 +8,7 @@ class Student
     void getdata()
     {
         Scanner sc = new Scanner(System.in);
+        
         System.out.println("Geting Student Data : ");
         System.out.println();
         System.out.println("Name : ");
