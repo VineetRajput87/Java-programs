@@ -2,7 +2,6 @@ class ABC
 {
     int a;
     int b;
-    
     ABC(int b)
     {
         System.out.println("Welcome with the number : "+b);
