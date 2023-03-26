@@ -33,8 +33,5 @@ public class RegestrationForm
         P.add(textf5);
         Button b1 = new Button("Submit");
         P.add(b1);
-        
-        
-
     }
 }
