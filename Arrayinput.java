@@ -10,7 +10,6 @@ class Arrayinput
         {
                 System.out.println("Enter values : ");       
                 a[i]=sc.nextInt();  
-   
         }
       for(i=0; i<10;i++)
 {  
