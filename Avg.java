@@ -4,7 +4,6 @@ public class Avg extends Frame implements ActionListener
 {
     Button b1,b2,b3; 
     TextField textf1,textf2,textf3,text4;
-   
     Avg()
     {
         setSize(400,400);
