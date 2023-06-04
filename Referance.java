@@ -7,5 +7,5 @@ public class Referance
         Referance obj = new Referance();
         r=obj;
         System.out.println("The value of A : "+r.A);
-      }
+      } 
 }
