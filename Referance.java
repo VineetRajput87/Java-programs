@@ -4,7 +4,7 @@ public class Referance
       public static void main(String sr[])
       { 
         Referance r;
-        Referance obj = new Referance();
+        Referance obj = new Referance(); 
         r=obj;
         System.out.println("The value of A : "+r.A);
       } 
