@@ -5,6 +5,6 @@ class Add
     public static void main(String[] args)
     {
         Add obj = new Add();
-        System.out.println(obj.a+obj.b);
+        System.out.println(obj.a+obj.b); 
     } 
 }
