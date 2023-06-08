@@ -6,5 +6,5 @@ class Add
     {
         Add obj = new Add();
         System.out.println(obj.a+obj.b);
-    }
+    } 
 }
