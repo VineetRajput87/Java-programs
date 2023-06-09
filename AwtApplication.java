@@ -5,7 +5,7 @@ public class AwtApplication
     public static void main(String arrp[])
     {
         Frame obj = new Frame("TITLE");
-        obj.setSize(400,400);
+        obj.setSize(400,400); 
         obj.setVisible(true);
         Panel P = new Panel(); 
         obj.add(P);
