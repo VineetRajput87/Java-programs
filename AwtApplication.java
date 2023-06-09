@@ -1,7 +1,7 @@
 
 import java.awt.*;
 public class AwtApplication 
-{
+{ 
     public static void main(String arrp[])
     {
         Frame obj = new Frame("TITLE");
