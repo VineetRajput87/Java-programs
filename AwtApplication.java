@@ -7,7 +7,7 @@ public class AwtApplication
         Frame obj = new Frame("TITLE");
         obj.setSize(400,400);
         obj.setVisible(true);
-        Panel P = new Panel();
+        Panel P = new Panel(); 
         obj.add(P);
         Label l1 = new Label("Enter First Name : ");
         P.add(l1);
