@@ -10,7 +10,7 @@ class Array2D
           for(i=0;i<2;i++)
           {
              for(j=0;j<2;j++)
-             {
+             { 
                   
                   a[i][j]=sc.nextInt();
              }
