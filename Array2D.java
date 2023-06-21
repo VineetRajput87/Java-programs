@@ -1,6 +1,6 @@
 import java.util.Scanner;
 class Array2D
-{
+{ 
      public static void main(String ar[ ])
      {
           int a[ ][ ] = new int[2][2];
