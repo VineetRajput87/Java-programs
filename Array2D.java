@@ -7,7 +7,7 @@ class Array2D
           int i,j;
           Scanner sc = new Scanner(System.in);
           System.out.println("Enter values : ");
-          for(i=0;i<2;i++)
+          for(i=0;i<2;i++) 
           {
              for(j=0;j<2;j++)
              { 
