@@ -2,7 +2,7 @@
 import java.util.Scanner;
 class Loop 
 {
-      public static void main(String arr[ ])
+      public static void main(String arr[ ]) 
       {
             int a,i;
             Scanner sc = new Scanner(System.in);
