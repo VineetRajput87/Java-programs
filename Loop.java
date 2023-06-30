@@ -8,7 +8,7 @@ class Loop
             Scanner sc = new Scanner(System.in);
             for(i=1; i<=10 ; i++)
             {
-                  System.out.println("Enter "+i+" Value : ");
+                  System.out.println("Enter "+i+" Value : "); 
                   a=sc.nextInt();
                   System.out.println("The Value of "+i+" Number : "+a);
             } 
