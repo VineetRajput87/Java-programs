@@ -7,7 +7,7 @@ class Rectangle
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter length and Width : ");
         l=sc.nextInt();
-        b=sc.nextInt();
+        b=sc.nextInt(); 
     }
     void showrect()
     {
