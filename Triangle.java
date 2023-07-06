@@ -3,7 +3,7 @@ class Rectangle
 {
     int l,b;
     void getrect()
-    {
+    { 
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter length and Width : ");
         l=sc.nextInt();
