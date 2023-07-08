@@ -1,6 +1,6 @@
 import java.awt.*;
 import java.awt.event.*;
-public class BCD implements KeyListener 
+public class BCD implements KeyListener
 { 
     Frame f;
     Label l;
