@@ -6,7 +6,7 @@ public class BCD implements KeyListener
     Label l;
     TextArea Ta;
     BCD()
-    {
+    { 
         f = new Frame("My Name");
         f.setSize(600,600);
         f.setVisible(true);
