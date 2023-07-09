@@ -6,5 +6,5 @@ class Typecasting
         int y; 
         y=x;
         System.out.println("Y : "+y);
-    }
+    } 
 }
