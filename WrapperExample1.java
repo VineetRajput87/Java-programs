@@ -5,7 +5,7 @@ class WrapperExample1
         int a=10; 
         Integer obj = Integer.valueOf(a); 
         Integer j=a;
-        Integer r=obj;
+        Integer r=obj; 
         System.out.println(a+" "+j+" "+obj+" "+r);
     }
 }
