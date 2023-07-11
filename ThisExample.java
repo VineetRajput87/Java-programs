@@ -3,7 +3,7 @@ public class ThisExample
     int a; 
     int b;
     ThisExample()
-    {
+    { 
         this(100);
         System.out.println("Heyy..!");
     }
