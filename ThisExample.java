@@ -1,6 +1,6 @@
 public class ThisExample 
 {
-    int a;
+    int a; 
     int b;
     ThisExample()
     {
