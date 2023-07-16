@@ -1,4 +1,4 @@
-// Q. :- WAP to take input .
+// Q. :- WAP to take input 
 import java.util.Scanner;
 class TakeInput
 {
