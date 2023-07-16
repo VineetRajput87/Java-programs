@@ -4,7 +4,7 @@ class TakeInput
 {
    public static void main(String a[ ])
   {
-      int x;
+      int x; 
       Scanner sc = new Scanner(System.in);
       x=sc.nextInt();
       System.out.println("x : "+x);
