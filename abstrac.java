@@ -6,7 +6,7 @@ abstract class ABC
         System.out.println("F2 Function");
     }
 }
-class B extends ABC
+class B extends ABC 
 {
     void f1()
     {
