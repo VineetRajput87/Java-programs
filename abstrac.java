@@ -1,6 +1,6 @@
 abstract class ABC 
 {
-    abstract void f1();
+    abstract void f1(); 
     void f2()
     {
         System.out.println("F2 Function");
