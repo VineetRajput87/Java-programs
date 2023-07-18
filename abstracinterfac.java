@@ -7,7 +7,7 @@ abstract class A implements I1
     abstract void f2();
     public void f1()
     {
-        System.out.println("Interface I1");
+        System.out.println("Interface I1"); 
     }
 }
 public class abstracinterfac extends A
