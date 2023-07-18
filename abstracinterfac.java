@@ -11,7 +11,7 @@ abstract class A implements I1
     }
 }
 public class abstracinterfac extends A
-{
+{ 
     void f2()
     {
         System.out.println("Abstract Class");
