@@ -7,7 +7,7 @@ class A
 }
 
 class B extends A 
-{
+{ 
     void f2()
     {
         System.out.println("Class B");
