@@ -9,7 +9,7 @@ public class vector
         Vector <Integer> obj1 = new Vector<Integer>(3,5);
 
         obj1.add(1);
-        obj1.add(3);
+        obj1.add(3); 
         obj1.add(34);
         obj1.add(15);
         System.out.println("Elements of Vector 2 : ");
