@@ -1,5 +1,5 @@
 import java.util.Vector;
-public class vector 
+public class vector  
 {
     public static void main(String[] args)
     {
