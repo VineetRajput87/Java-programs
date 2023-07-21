@@ -3,7 +3,7 @@ public class vector
 {
     public static void main(String[] args)
     {
-        Vector <Integer> obj = new Vector<Integer>();
+        Vector <Integer> obj = new Vector<Integer>(); 
         System.out.println("The Capacity of Vector 1 : "+obj.capacity());
          
         Vector <Integer> obj1 = new Vector<Integer>(3,5);
