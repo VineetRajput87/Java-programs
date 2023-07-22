@@ -12,7 +12,7 @@ public class SumandAvg extends Frame implements ActionListener
         setVisible(true);
         setLayout(new FlowLayout());
         setTitle("MENU ");
-        Panel P = new Panel();
+        Panel P = new Panel(); 
         add(P);
         P.setLayout(new GridLayout(8,20,50,50));
 
