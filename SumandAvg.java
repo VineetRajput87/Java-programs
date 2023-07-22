@@ -1,6 +1,6 @@
 import java.awt.event.*;
 import java.awt.*;
-public class SumandAvg extends Frame implements ActionListener
+public class SumandAvg extends Frame implements ActionListener 
 {
     Button b1,b3;  
     Checkbox cb1;
