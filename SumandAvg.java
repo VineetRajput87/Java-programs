@@ -2,7 +2,7 @@ import java.awt.event.*;
 import java.awt.*;
 public class SumandAvg extends Frame implements ActionListener
 {
-    Button b1,b3; 
+    Button b1,b3;  
     Checkbox cb1;
     TextField textf1,textf2,textf3,text4,text5;
    
