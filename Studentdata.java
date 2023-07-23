@@ -4,7 +4,7 @@ class Student
     String Name;
     int Age;
     float CGPA;
-
+ 
     void getdata()
     {
         Scanner sc = new Scanner(System.in); 
