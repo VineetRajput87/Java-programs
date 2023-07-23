@@ -2,7 +2,7 @@ import java.util.Scanner;
 class Student 
 {    
     String Name;
-    int Age;
+    int Age; 
     float CGPA;
  
     void getdata()
