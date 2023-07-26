@@ -6,7 +6,7 @@ public class Student
     float cgpa;
 
     void getData()
-    {
+    { 
         Scanner sc = new Scanner(System.in);
         System.out.print("Name : ");
         name =sc.next();
