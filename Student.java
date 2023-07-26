@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class Student
 {
-    String name ;
+    String name ; 
     int age;
     float cgpa;
 
