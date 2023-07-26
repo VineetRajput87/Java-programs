@@ -9,7 +9,7 @@ public class Student
     { 
         Scanner sc = new Scanner(System.in);
         System.out.print("Name : ");
-        name =sc.next();
+        name =sc.next(); 
         System.out.print("Age : ");
         age=sc.nextInt();
         System.out.print("CGPA : ");
