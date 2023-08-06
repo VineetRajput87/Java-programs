@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.Scanner; 
 public class Sample2 
 {
     int a,b,c;
