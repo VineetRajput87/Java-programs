@@ -3,7 +3,7 @@ public class Sample2
 {
     int a,b,c;
     void get()
-    {
+    { 
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a : "); 
         a=sc.nextInt();
