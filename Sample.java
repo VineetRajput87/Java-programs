@@ -1,7 +1,7 @@
 class Sample
 {
     int a=10;
-    void show()
+    void show() 
     {
         System.out.println("The value of A is : "+a); 
     }
