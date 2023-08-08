@@ -7,7 +7,7 @@ public class RegestrationForm2 implements ActionListener
     Panel P;
     TextField textf1,textf2,textf3,textf4;
     TextArea textf5;
-    Button b1;
+    Button b1; 
     Label l1;
     Label l2;
     Label l3; 
