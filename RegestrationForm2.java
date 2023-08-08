@@ -1,6 +1,6 @@
 import java.awt.*;
 import java.awt.event.*;
-//import java.event.ActionEvent;
+//import java.event.ActionEvent; 
 public class RegestrationForm2 implements ActionListener
 {
     Frame obj;
