@@ -2,7 +2,7 @@ import java.awt.*;
 public class RegestrationForm 
 {
     public static void main(String arrp[])
-    {
+    { 
         Frame obj = new Frame("REGESTRATION FORM");
         obj.setSize(400,400);
         obj.setVisible(true); 
