@@ -5,7 +5,7 @@ public class RegestrationForm
     {
         Frame obj = new Frame("REGESTRATION FORM");
         obj.setSize(400,400);
-        obj.setVisible(true);
+        obj.setVisible(true); 
         obj.setLayout(new FlowLayout());
         obj.setBackground(Color.YELLOW);
         Panel P = new Panel();
