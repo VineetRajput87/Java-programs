@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class ParaConstructor 
 {
     ParaConstructor(int a, int b)
-    {
+    { 
         System.out.println("The Addition is : "+(a+b));
     }
     public static void main(String ar[])
