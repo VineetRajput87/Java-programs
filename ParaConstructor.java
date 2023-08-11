@@ -6,7 +6,7 @@ public class ParaConstructor
         System.out.println("The Addition is : "+(a+b));
     }
     public static void main(String ar[])
-    {
+    { 
         int p;
         int q;
         Scanner sc=new Scanner(System.in);
