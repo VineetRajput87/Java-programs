@@ -5,7 +5,7 @@ interface I1
 interface I2 extends I1
 {
     void f2();
-}
+} 
 interface I3 extends I2
 {
     void f3();
