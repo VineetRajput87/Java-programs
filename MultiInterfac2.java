@@ -8,7 +8,7 @@ interface I2 extends I1
 } 
 interface I3 extends I2
 {
-    void f3();
+    void f3(); 
 }
 public class MultiInterfac2 implements I3
 {
