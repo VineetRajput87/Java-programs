@@ -2,7 +2,7 @@ interface I1
 {
     void f1();
 }
-interface I2 extends I1
+interface I2 extends I1 
 {
     void f2();
 } 
