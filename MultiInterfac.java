@@ -6,7 +6,7 @@ interface I2
 {
     void f2(); 
 }
-public class MultiInterfac implements I1,I2
+public class MultiInterfac implements I1,I2 
 {
     public void f1()
     {
