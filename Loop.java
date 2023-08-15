@@ -1,6 +1,6 @@
 // WAP to take 10 integers values and desplay the result.
 import java.util.Scanner;
-class Loop 
+class Loop  
 {
       public static void main(String arr[ ])  
       {
