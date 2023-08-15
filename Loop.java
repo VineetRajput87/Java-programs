@@ -5,7 +5,7 @@ class Loop
       public static void main(String arr[ ]) 
       {
             int a,i;
-            Scanner sc = new Scanner(System.in);
+            Scanner sc = new Scanner(System.in); 
             for(i=1; i<=10 ; i++)
             {
                   System.out.println("Enter "+i+" Value : "); 
