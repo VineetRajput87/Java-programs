@@ -3,7 +3,7 @@ public class LoginForm
 {
     public static void main(String arrp[])
     {
-        Frame obj = new Frame("LOGIN FORM");
+        Frame obj = new Frame("LOGIN FORM"); 
         obj.setSize(400,400);
         obj.setVisible(true);
         obj.setLayout(new FlowLayout()); 
