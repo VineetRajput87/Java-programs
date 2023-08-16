@@ -6,7 +6,7 @@ public class LoginForm
         Frame obj = new Frame("LOGIN FORM");
         obj.setSize(400,400);
         obj.setVisible(true);
-        obj.setLayout(new FlowLayout());
+        obj.setLayout(new FlowLayout()); 
         //obj.setBackground(Color.YELLOW);
         Panel P = new Panel();
         obj.add(P);
