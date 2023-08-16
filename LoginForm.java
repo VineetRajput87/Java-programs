@@ -1,7 +1,7 @@
 import java.awt.*;
 public class LoginForm
 {
-    public static void main(String arrp[])
+    public static void main(String arrp[]) 
     {
         Frame obj = new Frame("LOGIN FORM"); 
         obj.setSize(400,400);
