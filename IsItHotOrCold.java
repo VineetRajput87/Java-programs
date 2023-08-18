@@ -6,7 +6,7 @@ class Vineet
 {
 	public static void main (String[] args)
 	{
-		int t,a;
+		int t,a; 
 		Scanner sc = new Scanner(System.in);
 		t=sc.nextInt();
 		for(;t>0;t--)
