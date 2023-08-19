@@ -1,6 +1,6 @@
 interface I1
 {
-    void f1();
+    void f1(); 
 }
 public class Interfac implements I1 
 {
