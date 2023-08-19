@@ -5,7 +5,7 @@ interface I1
 public class Interfac implements I1 
 {
     public void f1()
-    {
+    { 
         System.out.println("Interfac Class");
     }
     public static void main(String arr[])
