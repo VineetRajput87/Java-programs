@@ -2,7 +2,7 @@ interface I1
 {
     void f1();
 }
-public class Interfac implements I1
+public class Interfac implements I1 
 {
     public void f1()
     {
