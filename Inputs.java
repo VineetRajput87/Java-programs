@@ -1,7 +1,7 @@
 //Q. :- WAP in java to take 4 input 1st as int , 2nd as float , double and string and desplay the result of all of them.
 
 import java.util.Scanner;
-class Inputs
+class Inputs 
 {
     public static void main(String arr[ ])
     {
