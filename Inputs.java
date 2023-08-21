@@ -7,7 +7,7 @@ class Inputs
     {
           int a;
           float b;
-          double c; 
+          double c;  
           String d;
           Scanner sc = new Scanner(System.in);
           
