@@ -1,6 +1,6 @@
 class base
 {
-    void show()
+    void show() 
     {
         System.out.println("Base class "); 
     }
