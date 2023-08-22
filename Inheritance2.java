@@ -2,7 +2,7 @@ class base
 {
     void show()
     {
-        System.out.println("Base class ");
+        System.out.println("Base class "); 
     }
 }
 public class Inheritance2 extends base
