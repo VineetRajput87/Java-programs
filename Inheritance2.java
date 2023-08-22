@@ -5,7 +5,7 @@ class base
         System.out.println("Base class "); 
     }
 }
-public class Inheritance2 extends base
+public class Inheritance2 extends base 
 {
     void show()
     {
