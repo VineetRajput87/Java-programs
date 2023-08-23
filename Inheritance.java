@@ -5,7 +5,7 @@ class A
         System.out.println("Class A");
     }   
 }
-class Inheritance extends A
+class Inheritance extends A 
 {
     void f2()
     {
