@@ -6,7 +6,7 @@ class A
     }   
 }
 class Inheritance extends A 
-{
+{ 
     void f2()
     {
         System.out.println("Class Inheritance");
