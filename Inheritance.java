@@ -2,7 +2,7 @@ class A
 {
     void f1()
     {  
-        System.out.println("Class A");
+        System.out.println("Class A"); 
     }   
 }
 class Inheritance extends A 
