@@ -2,7 +2,7 @@ import java.util.Scanner;
 class GreaterNumber
 {
     int a,b,c;
-    void compare()
+    void compare() 
     { 
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter Value of A : ");
