@@ -3,7 +3,7 @@ class GreaterNumber
 { 
     int a,b;
     void compare()
-    {
+    { 
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter Value of A : ");
         a=sc.nextInt();
