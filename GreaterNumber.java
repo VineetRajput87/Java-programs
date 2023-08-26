@@ -10,7 +10,7 @@ class GreaterNumber
         System.out.println("Enter Value of B : ");
         b=sc.nextInt();
         if(a>b)
-           System.out.println("Greater Value is : "+a);
+           System.out.println("Greater Value is : "+a); 
         else if(b>a)
            System.out.println("Greater Value is : "+b);
         else
