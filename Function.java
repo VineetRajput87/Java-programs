@@ -5,7 +5,7 @@ public class Function
     {
         System.out.println("Hello");
     }
-    void f2(int b,int c)
+    void f2(int b,int c) 
     {
         System.out.println("The Addition is : "+(b+c));
     }
