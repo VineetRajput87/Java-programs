@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class Function 
 {
-    void f1()
+    void f1() 
     {
         System.out.println("Hello");
     }
