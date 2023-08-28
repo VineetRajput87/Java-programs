@@ -4,7 +4,7 @@
 
 // The match ends in a draw, and,
 // At least one goal has been scored by either team.
-
+ 
 // Given the goals scored by both the teams as X and Y
 // respectively, 
 // determine whether Vineet will like the match or
