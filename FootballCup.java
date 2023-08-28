@@ -9,7 +9,7 @@
 // respectively, 
 // determine whether Vineet will like the match or
 // not.
-
+ 
 import java.util.Scanner;
 class Vineet
 {
