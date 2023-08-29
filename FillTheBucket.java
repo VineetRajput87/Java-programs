@@ -3,7 +3,7 @@
 // Find the maximum amount of extra water in liters that Vineet
 // can fill in the bucket without overflowing.
 
-import java.util.Scanner;
+import java.util.Scanner; 
 
 class Vineet 
 {
