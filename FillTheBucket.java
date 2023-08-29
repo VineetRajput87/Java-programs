@@ -15,7 +15,7 @@ class Vineet
 		for(;t>0;t--)
 		{
 		    int a,b;
-		    a=sc.nextInt();
+		    a=sc.nextInt(); 
 		    b=sc.nextInt();
 		    System.out.println(a-b);
 		}
