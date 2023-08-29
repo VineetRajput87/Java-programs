@@ -5,7 +5,7 @@
 
 import java.util.Scanner;
 
-class Vineet
+class Vineet 
 {
 	public static void main (String[] args)
 	{
