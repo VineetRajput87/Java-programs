@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.util.TreeSet;
-public class ExTree 
+public class ExTree  
 {
     public static void main(String[] args) 
     {
