@@ -4,7 +4,7 @@ public class ExTree
 {
     public static void main(String[] args) 
     {
-        int n;
+        int n; 
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the size : ");
         n=sc.nextInt();
