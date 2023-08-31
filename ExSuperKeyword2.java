@@ -5,7 +5,7 @@ class base
         System.out.println("Constructor of base Class ");
     } 
     void show()
-    {
+    { 
         System.out.println("The Base class Method");
     }
 
