@@ -1,4 +1,4 @@
-class base
+class base 
 {
     base()
     {
