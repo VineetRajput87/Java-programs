@@ -1,6 +1,6 @@
 class ABC
 {
-    int a;
+    int a; 
     int b;
     ABC(int b)
     {
