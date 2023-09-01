@@ -4,7 +4,7 @@ class ABC
     int b;
     ABC(int b)
     {
-        System.out.println("Welcome with the number : "+b);
+        System.out.println("Welcome with the number : "+b); 
     }
     void show()
     {
