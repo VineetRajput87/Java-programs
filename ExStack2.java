@@ -3,7 +3,7 @@ import java.util.Stack;
 public class ExStack2 
 {
     public static void main(String[] args) 
-    {
+    { 
         int choice;
         Scanner sc= new Scanner(System.in);
         Stack<String> obj = new Stack<String>(); 
