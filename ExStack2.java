@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Stack;
 public class ExStack2 
-{
+{ 
     public static void main(String[] args) 
     { 
         int choice;
