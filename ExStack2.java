@@ -6,7 +6,7 @@ public class ExStack2
     {
         int choice;
         Scanner sc= new Scanner(System.in);
-        Stack<String> obj = new Stack<String>();
+        Stack<String> obj = new Stack<String>(); 
         do{
         System.out.println("1.Push\n2.Pop\n3.Desplay\n4.Exit\n");
         System.out.println("Enter Your Choice : ");
