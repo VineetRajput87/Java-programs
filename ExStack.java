@@ -1,7 +1,7 @@
 import java.util.Stack;
 
 public class ExStack 
-{
+{ 
     public static void main(String[] args) 
     {
         Stack<String> obj = new Stack<String>();
