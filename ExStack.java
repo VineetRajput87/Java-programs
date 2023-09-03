@@ -10,7 +10,7 @@ public class ExStack
         obj.push("Kanha");                                    
         obj.push("Tahir"); 
         obj.push("Mohit"); 
-        obj.push("Ram");
+        obj.push("Ram"); 
         System.out.println("The list is : "+obj); 
         System.out.println("The size is : "+obj.size()); 
         obj.pop();
