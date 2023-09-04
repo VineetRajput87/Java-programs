@@ -1,6 +1,6 @@
 import java.util.PriorityQueue;
 import java.util.Queue;
-
+ 
 public class ExQueue 
 {
     public static void main(String[] args) 
