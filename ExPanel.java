@@ -1,7 +1,7 @@
 import java.awt.*;
 public class ExPanel 
 {
-    public static void main(String[] args) 
+    public static void main(String[] args)  
     {  
        Panel p = new Panel();
        Frame obj = new Frame("The Title");
