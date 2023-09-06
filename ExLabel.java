@@ -5,7 +5,7 @@ public class ExLabel
     {
         //Panel p = new Panel();
         Frame obj = new Frame("The Title");
-        obj.setSize(400,400);
+        obj.setSize(400,400); 
         obj.setVisible(true);
         //Label lbl = new Label("Shree Radhe..!");
         //obj.add(lbl);
