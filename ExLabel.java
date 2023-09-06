@@ -10,7 +10,7 @@ public class ExLabel
         //Label lbl = new Label("Shree Radhe..!");
         //obj.add(lbl);
         // TextField ob = new TextField();
-        // obj.add(ob);      
+        // obj.add(ob);       
         TextArea A = new TextArea();
         obj.add(A); 
         System.out.println("Vineet Rajput");
