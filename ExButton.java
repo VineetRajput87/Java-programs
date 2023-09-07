@@ -1,6 +1,6 @@
 import java.awt.*;
 class ExButton
-{
+{ 
     public static void main(String[] args) 
     {
         Frame F = new Frame("The Four Buttons");
