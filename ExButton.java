@@ -8,7 +8,7 @@ class ExButton
         F.setVisible(true);
         F.setLayout(new BorderLayout(50,50));
         Button b1 = new Button("TOP");
-        Button b2 = new Button("BOTTOM");
+        Button b2 = new Button("BOTTOM"); 
         Button b3 = new Button("LEFT");
         Button b4 = new Button("RIGHT");
         Button b5 = new Button("CENTER");
