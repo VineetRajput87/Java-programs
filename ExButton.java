@@ -2,7 +2,7 @@ import java.awt.*;
 class ExButton
 { 
     public static void main(String[] args) 
-    {
+    { 
         Frame F = new Frame("The Four Buttons");
         F.setSize(400,400);
         F.setVisible(true);
