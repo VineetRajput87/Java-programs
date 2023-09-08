@@ -2,7 +2,7 @@
 import java.util.ArrayList; 
 import java.util.Iterator;
 
-public class ExArrayList
+public class ExArrayList 
 {
     public static void main(String[] args) 
     {
