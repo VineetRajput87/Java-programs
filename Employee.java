@@ -3,7 +3,7 @@ public class Employee
 {
     int Id,salary;
     String firstname,lastname;  
-
+ 
     Employee(int Id,int salary,String firstname, String lastname)
     {
         //Scanner sc = new Scanner(System.in);
