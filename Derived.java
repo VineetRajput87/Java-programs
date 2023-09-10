@@ -6,7 +6,7 @@ class Base
     void getData() 
     {
         Scanner sc = new Scanner(System.in);
-        System.out.println("Name : ");
+        System.out.println("Name : "); 
         name=sc.next();
         System.out.println("Age : ");
         age=sc.nextInt();
