@@ -3,7 +3,7 @@ class Base
 {
     String name;
     int age; 
-    void getData()
+    void getData() 
     {
         Scanner sc = new Scanner(System.in);
         System.out.println("Name : ");
