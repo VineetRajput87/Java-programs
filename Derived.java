@@ -2,7 +2,7 @@ import java.util.Scanner;
 class Base
 {
     String name;
-    int age;
+    int age; 
     void getData()
     {
         Scanner sc = new Scanner(System.in);
