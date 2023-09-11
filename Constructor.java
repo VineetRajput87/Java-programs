@@ -1,7 +1,7 @@
 public class Constructor
 {
     int a;
-    Constructor()
+    Constructor() 
     {
         a=10;
         System.out.println("The value os A : "+a);
