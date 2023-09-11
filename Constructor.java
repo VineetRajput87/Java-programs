@@ -1,6 +1,6 @@
 public class Constructor
 {
-    int a;
+    int a; 
     Constructor() 
     {
         a=10;
