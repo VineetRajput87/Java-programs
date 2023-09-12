@@ -2,7 +2,7 @@ import java.awt.*;
 import java.awt.event.*; 
 public class Components implements ActionListener, ItemListener 
 {
-    Components()
+    Components() 
     {
         Frame f =new Frame("AWT COMPONENTS");
         f.setSize(300,300);
