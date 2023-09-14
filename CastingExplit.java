@@ -1,4 +1,4 @@
-class CastingExplit
+class CastingExplit 
 {
     public static void main (String a[ ] )
     { 
