@@ -4,7 +4,7 @@ class CalculatorBy_Switch
     public static void main(String arr[ ])
     {
         int a,b,c;
-        Scanner sc = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in); 
         System.out.println("Enter the value of A : ");
         a=sc.nextInt();
         System.out.println("Enter the value of B : ");
