@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class CalculatorBy_Switch
+class CalculatorBy_Switch 
 {
     public static void main(String arr[ ])
     {
