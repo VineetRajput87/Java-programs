@@ -3,7 +3,7 @@ class CalculatorBy_If
 {
     public static void main(String arr[ ])
     {
-        int a,b,c;
+        int a,b,c; 
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the value of A : ");
         a=sc.nextInt();
