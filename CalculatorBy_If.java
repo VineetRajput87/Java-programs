@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class CalculatorBy_If
+class CalculatorBy_If 
 {
     public static void main(String arr[ ])
     {
