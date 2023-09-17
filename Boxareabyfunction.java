@@ -8,7 +8,7 @@ Impliment this program in java.*/
 
 class Boxarea 
 {    
-    int l;
+    int l; 
     int b;
     int h;
     
