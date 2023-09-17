@@ -9,7 +9,7 @@ Impliment this program in java.*/
 class Boxarea 
 {    
     int l; 
-    int b;
+    int b; 
     int h;
     
     void vol(int i, int j , int k )
