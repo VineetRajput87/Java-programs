@@ -2,7 +2,7 @@
 
 void add method, 
 int add(int, int), 
-double(double, double, double)
+double(double, double, double) 
 
 Impliment this program in java.*/
 
