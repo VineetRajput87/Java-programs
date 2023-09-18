@@ -8,7 +8,7 @@ Impliment this program in java.*/
 import java.util.Scanner; 
 class Boxarea 
 {    
-    int l;
+    int l; 
     int b;
     int h;
 
