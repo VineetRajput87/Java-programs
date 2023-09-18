@@ -1,7 +1,7 @@
 /*Q.12: define a class compute with overloaded method : 
 
 void add method, 
-int add(int, int), 
+int add(int, int),  
 double(double, double, double)
 
 Impliment this program in java.*/
