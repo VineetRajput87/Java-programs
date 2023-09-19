@@ -3,7 +3,7 @@ import java.awt.event.*;
 public class BCD implements KeyListener
 {  
     Frame f;
-    Label l;
+    Label l; 
     TextArea Ta;
     BCD()
     { 
