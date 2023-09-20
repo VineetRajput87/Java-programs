@@ -1,6 +1,6 @@
 import java.awt.*;
 public class AwtFrame2 extends Frame
-{
+{ 
     public static void main(String[] args) 
     {
        AwtFrame2 obj = new AwtFrame2();
