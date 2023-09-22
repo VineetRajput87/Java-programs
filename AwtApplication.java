@@ -12,7 +12,7 @@ public class AwtApplication
         Label l1 = new Label("Enter First Name : ");
         P.add(l1);
         TextField textf1 = new TextField();
-        P.add(textf1);
+        P.add(textf1); 
         Label l2 = new Label("Enter First Name : ");
         P.add(l2);
         TextField textf2 = new TextField();
