@@ -6,7 +6,7 @@ public class Avg extends Frame implements ActionListener
     TextField textf1,textf2,textf3,text4;
     Avg()
     { 
-        setSize(400,400);
+        setSize(400,400); 
         setVisible(true);
         setLayout(new FlowLayout());
         setTitle("MENU "); 
