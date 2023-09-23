@@ -9,7 +9,7 @@ public class Avg extends Frame implements ActionListener
         setSize(400,400);
         setVisible(true);
         setLayout(new FlowLayout());
-        setTitle("MENU ");
+        setTitle("MENU "); 
         Panel P = new Panel();
         add(P);
         P.setLayout(new GridLayout(6,2,50,50));
