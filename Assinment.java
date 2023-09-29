@@ -1,6 +1,6 @@
 interface I1
 {
-    void show();
+    void show(); 
 }
 class c1 implements I1
 {
