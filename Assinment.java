@@ -4,7 +4,7 @@ interface I1
 }
 class c1 implements I1
 {
-    public void show()
+    public void show() 
     {
         System.out.println("Class C1");
     }
