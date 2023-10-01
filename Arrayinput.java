@@ -1,6 +1,6 @@
 import java.util.Scanner;
 class Arrayinput
-{
+{ 
     public static void main(String arr[ ])
     {
         int a[ ]= new int[10];
