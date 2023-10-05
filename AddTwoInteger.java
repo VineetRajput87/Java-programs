@@ -3,7 +3,7 @@ class Add
 { 
     int a;
     int b;
-    public static void main(String[] args)
+    public static void main(String[] args) 
     {
         Add obj = new Add();
         System.out.println("Enter the value of A and B : ");
